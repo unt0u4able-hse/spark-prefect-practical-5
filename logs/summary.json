@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "application_id": "application_1790870690688_0010",
+  "yarn_state": "FINISHED",
+  "yarn_final_status": "SUCCEEDED",
+  "input_rows": 8,
+  "hive_rows": 4,
+  "partitions": [
+    "dt=2026-10-01/country=KZ",
+    "dt=2026-10-01/country=RU",
+    "dt=2026-10-02/country=KZ",
+    "dt=2026-10-02/country=RU"
+  ],
+  "gross_total": "360.00"
+}
